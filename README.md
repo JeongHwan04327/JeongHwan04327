@@ -23,11 +23,15 @@
 ## 장래희망
 운동과 관련된 직업
 
+## 이루고 싶은 것들
+- 다한증 치료하기
+- 라섹하기
+- 체중 10kg 이상 늘리기
+
 ## 내가 존경하는 사람
 - Faker - 이상혁
 - Deft - 김혁규
 - 손흥민
-- 
 ##  SNS
 - Email: kim47134@gmail.com
 - Instargram: [governflare](https://www.instagram.com/governflare/)
