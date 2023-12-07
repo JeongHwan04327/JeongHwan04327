@@ -22,7 +22,7 @@
 - 😎 딍굴딍굴 누워서 유튜브 보기
 
 ## JeongHwan,s Playlist 🎼
-- #### Coldplay - A sky Full Of Stars <a href="https://www.youtube.com/watch?v=Fpn1imb9qZg" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
+- #### Coldplay - A sky Full Of Stars (Live at River Plate) <a href="https://www.youtube.com/watch?v=Fpn1imb9qZg" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
 </a>
 
 - #### Post Malone - Too Cool To Die <a href="https://www.youtube.com/watch?v=kiWUBbbn3ZI" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
