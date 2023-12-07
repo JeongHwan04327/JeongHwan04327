@@ -19,20 +19,27 @@
 - 운동(축구,농구 등등)
 - 게임(리그오브레전드)
 - 팝송, BGM 듣기
+- 딍굴딍굴 누워서 유튜브 보기
 
 ## 장래희망
 운동과 관련된 직업
 
 ## 이루고 싶은 것들
+
 - 다한증 치료하기
 - 라섹하기
 - 교정하기
 - 체중 10kg 이상 늘리기
 
 ## 내가 존경하는 사람
-- Faker - 이상혁
-- Deft - 김혁규
-- 손흥민
+ # Faker - 이상혁
+  ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/456f96c2-9fa0-4c49-9355-ae2981cd7254)
+ # Deft - 김혁규
+  ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/eccc3cc3-7687-4c69-a453-b412ca8c8dc1)
+ # 손흥민
+  ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/5d4e36f4-f560-4dde-ba25-c28d8ecae8f0)
+
+- 이 셋의 공통점이라 하면 모두 탑클래스에 있는 선수임에도 불구하고 항상 성실 근면하고 다른 선수들에게 모범이 되는 선수이다.
 ##  SNS
 - Email: kim47134@gmail.com
 - Instargram: [governflare](https://www.instagram.com/governflare/)
