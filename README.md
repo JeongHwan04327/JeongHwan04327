@@ -32,14 +32,14 @@
 - 체중 10kg 이상 늘리기
 
 ## 내가 존경하는 사람
- # Faker - 이상혁
+ ### Faker - 이상혁
   ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/456f96c2-9fa0-4c49-9355-ae2981cd7254)
- # Deft - 김혁규
+ ### Deft - 김혁규
   ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/eccc3cc3-7687-4c69-a453-b412ca8c8dc1)
- # 손흥민
+ ### 손흥민
   ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/5d4e36f4-f560-4dde-ba25-c28d8ecae8f0)
 
-- 이 셋의 공통점이라 하면 모두 탑클래스에 있는 선수임에도 불구하고 항상 성실 근면하고 다른 선수들에게 모범이 되는 선수이다.
+#### - 이 셋의 공통점이라 하면 모두 탑클래스에 있는 선수임에도 불구하고 항상 성실 근면하고 다른 선수들에게 모범이 되는 선수이다.
 ##  SNS
 - Email: kim47134@gmail.com
 - Instargram: [governflare](https://www.instagram.com/governflare/)
