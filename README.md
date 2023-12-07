@@ -2,10 +2,10 @@
 
   저는 현재 동양미래대학교 빅데이터경영학과 1학년에 재학중인 김정환이에요
 
-## 거주지
+## 거주지 🏠
   서울시 양천구 신정동 거주
 
-## 생년월일
+## 생년월일 🎉
   2004년 3월 27일
 
 ## 성격
@@ -16,22 +16,22 @@
 - 게으르고, 끈기가 부족해요.
   
 ## 취미
-- 운동(축구,농구 등등)
-- 게임(리그오브레전드)
-- 팝송, BGM 듣기
-- 딍굴딍굴 누워서 유튜브 보기
+- 운동(⚽ 축구,🏀 농구 등등)
+- 🎮게임(리그오브레전드)
+- 🎶 팝송, BGM 듣기
+- 😎 딍굴딍굴 누워서 유튜브 보기
 
-## 장래희망
+## 장래희망 💭
   운동과 관련된 직업
 
-## 이루고 싶은 것들
+## 이루고 싶은 것들 🙏
 
-- 다한증 치료하기
-- 라섹하기
-- 교정하기
+- 💦 다한증 치료하기
+- 👁️ 라섹하기
+- 👄 교정하기
 - 체중 10kg 이상 늘리기
 
-## 내가 존경하는 사람
+## 내가 존경하는 사람 🤩
  ### Faker - 이상혁
   ![image](https://github.com/JeongHwan04327/JeongHwan04327/assets/144201018/456f96c2-9fa0-4c49-9355-ae2981cd7254)
  ### Deft - 김혁규
@@ -43,7 +43,8 @@
 ##  SNS
 - Email: kim47134@gmail.com
 - Instargram: [governflare](https://www.instagram.com/governflare/)
-
+- Youtube: <a href="https://youtu.be/kIyg9FZJebc?si=DiQTfo45mOIdH18Y" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
+</a>
 ## 목표
 - 군대 탈 없이 다녀오기
 - 이전보다 더 친근한 사람이 되기
