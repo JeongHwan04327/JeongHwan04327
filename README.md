@@ -34,10 +34,6 @@
 - #### Post Malone - Chemical <a href="https://www.youtube.com/watch?v=D2HMHH6sRBY" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
 </a>
 
-- #### JFF - 장충동 왕족발 보쌈 Remix <a href="https://youtu.be/kIyg9FZJebc?si=DiQTfo45mOIdH18Y" target="_blank"><img src="https://img.shields.io/badge/Music-2D4999?style=flat-square&logo=youtubemusic&logoColor=white"/>
-</a>
-
-
 ## 장래희망 💭
   운동과 관련된 직업
 
